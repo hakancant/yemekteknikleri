@@ -4,7 +4,7 @@
     "slug": "yemekteknikleri",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./ic_launcher.jpg",
     "scheme": "yemekteknikleri",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
@@ -42,6 +42,12 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "bd3a05b5-4043-4bbb-9288-f300a9bb2777"
+      }
     }
   }
 }
